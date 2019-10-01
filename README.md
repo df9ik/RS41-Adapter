@@ -5,7 +5,9 @@ For programming the Radiosonde RS41 you need a adapter from the ST-Link plug (2
 I use this parts from my favourite seller:
 
 1 highquality Board
+
 1 connector 2,5mm 5x2
+
 1 connector 2mm 5x2
 
 You can order some boards for 3.-€ plus postage. Please send a Email.
